@@ -1,3 +1,5 @@
+BSIT - 2A Mark GIlbert Z. Reginio
+
 Login Page
 This is a simple login page that allows users to log in to your website. The login page is designed using HTML, CSS, and JavaScript. It provides a user-friendly interface for users to enter their login credentials and securely log in to the website.
 
@@ -22,3 +24,4 @@ This project is licensed under the MIT License. Feel free to use and modify this
 Credits
 The login page was created by the author himself Codename: Endzy from BSIT - 2A.
 
+BSIT - 2A 
